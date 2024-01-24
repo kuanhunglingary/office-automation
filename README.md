@@ -26,3 +26,4 @@ Optical Character Recognition using python pytesseract module
 
 # Web Scrapy
 WebScraping Tech Companies Stock data
+WebScraping Liberty Times
