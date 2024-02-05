@@ -41,3 +41,7 @@ WebScraping Tech Companies Stock data
 
 WebScraping Liberty Times
 [Link](./webScarpyLtnNews.ipynb)
+
+WebScraping from the website (http://group.lifego.tw/), this project uses python BeautifulSoup module to scrapy old apartment communities and then save as an Excel file.
+[Link](./webScrapyOldBuildingCsv,py)
+[Link](./webScrapyOldBuildingXlsx,py)
