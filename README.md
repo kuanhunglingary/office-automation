@@ -31,6 +31,9 @@ Rename a file using Python pathlib module
 Rename Multiple Files Using Python
 [Link](./renameFiles.py)
 
+# Compress or extract files and directories
+[Link](./compressFiles.py)
+
 # Optical Character Recognition ( OCR )
 Optical Character Recognition using python pytesseract module
 [Link](./ocrPytesseract.py)
