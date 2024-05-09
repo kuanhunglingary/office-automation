@@ -24,6 +24,12 @@ Convert PDF to CSV file Using Python tabula module
 Convert PDF to xlsx file Using Python pandas and openxl module
 [Link](./convertPDFtoXlsx.py)
 
+ PyPDF2 
+ [Link](./PyPDF2/splitMultiplePDFs.ipynb)
+1. Split the PDF file 
+2. Combine the PDF files
+3. Extract specific pages of PDF <br> 
+
 # Rename
 Rename a file using Python pathlib module
 [Link](./renameAfile.py)
