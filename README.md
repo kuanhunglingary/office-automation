@@ -24,6 +24,10 @@ Convert xls files to xlsx Using Python Pandas Module and then Copy and Paste the
 Optical Character Recognition using python pytesseract module
 [Link](./ocrPytesseract.py)
 
+# Convert doxc file to PDF file 
+Need to install python-docx and comtypes module 
+[Link](./doxcToPDF/doxcToPDF.py)
+
 # PDF
 Convert PDF to CSV file Using Python tabula module
 [Link](./PDF/convertPDFtoCSV.py)
